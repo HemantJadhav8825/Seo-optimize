@@ -21,9 +21,9 @@
   "author": "Minions",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ParasGarg/Online-Grocery-Store/issues"
+    "url": "https://github.com/HemantJadhav8825/lund.git/issues"
   },
-  "homepage": "https://github.com/ParasGarg/Online-Grocery-Store#readme",
+  "homepage": "https://github.com/HemantJadhav8825/lund#readme",
   "dependencies": {
     "bcrypt": "^1.0.2",
     "body-parser": "^1.17.1",
